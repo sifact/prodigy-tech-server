@@ -5,8 +5,8 @@ const cors = require("cors");
 const port = process.env.PORT || 5000;
 app.use(cors());
 
-const categories = require("./data/categories.json");
+const courses = require("./data/courses.json");
 
 app.listen(port, () => {
-    console.log("Dragon News Server running on port:", port);
+    console.log("Server running on port:", port);
 });

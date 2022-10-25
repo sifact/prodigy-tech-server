@@ -1,0 +1,98 @@
+[
+    {
+        "id": "01",
+        "name": "Python crash course",
+        "details": "How to become a Python Developer and get hired! Build 20+ projects, learn Web Development, Data Visualization and more",
+        "overview": [
+            "Creating Projects using Python Programming Language.",
+            "Data types",
+            "Loops",
+            "Data Structures",
+            "OOP in Python",
+            "Libraries"
+        ],
+        "img": "https://i.ibb.co/P1FNhCN/python.jpg",
+        "instructor": "Mosh Hamedani",
+        "price": "$13.99",
+        "rating": "4.8"
+    },
+    {
+        "id": "02",
+        "name": "Android Development",
+        "details": "Learn Android App Development from Zero to Hero - Build 20+ Apps from scratch - Become a real developer",
+        "overview": [
+            "Learn core concepts: activities, services, content providers",
+            "Building real apps and publish them to playstore",
+            "Become a professional Native app developer"
+        ],
+        "img": "https://i.ibb.co/0MdL0KZ/android.jpg",
+        "instructor": "John Smith",
+        "price": "$9.99",
+        "rating": "4.5"
+    },
+
+    {
+        "id": "03",
+        "name": "Blockchain Development",
+        "details": "Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain",
+        "overview": [
+            "Understanding Decentralized Consensus",
+            "Smart Contracts",
+            "Mining",
+            "Learn the true purpose and capabilities of Ethereum and Solidity"
+        ],
+        "img": "https://i.ibb.co/0cVRgLF/block.jpg",
+        "instructor": "Bob",
+        "price": "$15.99",
+        "rating": "4.2"
+    },
+    {
+        "id": "04",
+        "name": "Python for Data Science and Machine Learning",
+        "details": "Learn about Data Science and Machine Learning with Python! Including Numpy, Pandas, Matplotlib, Scikit-Learn and more!",
+        "overview": [
+            "You will learn how to use data science and machine learning with Python",
+            "You will create data pipeline workflows to analyze, visualize, and gain insights from data.",
+            "You will build a portfolio of data science projects with real world data.",
+            "You will be able to analyze your own data sets and gain insights through data science."
+        ],
+        "img": "https://i.ibb.co/YfcjVDV/ml.jpg",
+        "instructor": "Corey Shefer",
+        "price": "$19.99",
+        "rating": "4.5"
+    },
+    {
+        "id": "05",
+        "name": "Python Django",
+        "img": "https://i.ibb.co/1T5cBSP/django.jpg",
+        "details": "Learn the entire technology stack to create beautiful and responsive website with Python and Django",
+        "overview": [
+            "Django Projects Structure",
+            "How url routing works in Django",
+            "The meaning of MVT as a concept in Django",
+            "Understanding Django Admin Interface",
+            "Django Default Form System",
+            "Adding Custom Database To Django Project"
+        ],
+        "instructor": "Tim",
+        "price": "$50",
+        "rating": "4.3"
+    },
+    {
+        "id": "06",
+        "name": "Complete Angular Development",
+        "details": "Get job ready with Angular! Master the latest version of Angular and learn to build large scale apps that set you apart",
+        "overview": [
+            "Introduction to Angular concepts",
+            "Modules",
+            "Components",
+            "Templates, directives, and data binding",
+            "Services and dependency injection",
+            "Routing"
+        ],
+        "img": "https://i.ibb.co/NmqSFGR/angular.png",
+        "instructor": "John Smilga",
+        "price": "$11.99",
+        "rating": "4.6"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "01",
+        "name": "Python crash course",
+        "img": "https://ibb.co/c2k1FT1",
+        "instructor": "Mosh Hamedani",
+        "price": "$13.99",
+        "rating": "4.8"
+    },
+    {
+        "id": "02",
+        "name": "Android Development",
+        "img": "https://ibb.co/hWtNGcH",
+        "instructor": "John Smith",
+        "price": "$9.99",
+        "rating": "4.5"
+    },
+
+    {
+        "id": "03",
+        "name": "Blockchain Development",
+        "img": "https://ibb.co/qdF3t8W",
+        "instructor": "Bob",
+        "price": "$15.99",
+        "rating": "4.2"
+    },
+    {
+        "id": "04",
+        "name": "Python for Data Science and Machine Learning",
+        "img": "https://ibb.co/1Rr24s4",
+        "instructor": "Corey Shefer",
+        "price": "$19.99",
+        "rating": "4.5"
+    },
+    {
+        "id": "05",
+        "name": "Python Django",
+        "img": "https://ibb.co/M74dKXt",
+        "instructor": "Tim",
+        "price": "$50",
+        "rating": "4.3"
+    },
+    {
+        "id": "06",
+        "name": "Complete Angular Development",
+        "details": "Get job ready with Angular! Master the latest version of Angular and learn to build large scale apps that set you apart",
+        "overview": "",
+        "img": "https://ibb.co/8dwcmQk",
+        "instructor": "John Smilga",
+        "price": "$11.99",
+        "rating": "4.6"
+    }
+]
